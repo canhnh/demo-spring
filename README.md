@@ -1,5 +1,5 @@
 # Spring Boot JPA MySQL - Building Rest CRUD API example
-
+# Init project demo
 For more detail, please visit:
 > [Spring Boot JPA + MySQL - Building Rest CRUD API example](https://www.bezkoder.com/spring-boot-jpa-crud-rest-api/)
 
